@@ -18,7 +18,7 @@ To get started with any project:
 - Experiment, tweak, and use these programs as exercises to enhance your Python skills.
 
 ## Django task maanager program available 
->[! IMPORTANT]
+>[! NOTE]
 
 Due to the program's size, I'm unable to upload it directly to GitHub. Please find the download link here, hosted on Google Drive:  https://drive.google.com/file/d/1yNv1BAze7ClHIvUg0qG6t8mWraS0Erni/view?usp=drive_link 
 
